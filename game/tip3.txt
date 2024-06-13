@@ -1,1 +1,1 @@
-Jest mocno związany z Windowsem.
+Przedmiot jest mocno zwiazany z Windowsem.
