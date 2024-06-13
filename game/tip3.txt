@@ -1,0 +1,1 @@
+Jest mocno związany z Windowsem.
