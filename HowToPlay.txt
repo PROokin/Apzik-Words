@@ -1,0 +1,28 @@
+Jak grać?
+
+1. Poproś osobę, która ma dostęp do serwera, aby dodała pliki, które zaraz nauczę cię przygotowywać!
+   1. Utwórz plik o nazwie: "slowo.txt"
+      -W tym pliku napisz słowo, które twój rywal ma odgadnąć.
+
+   2. Utwórz plik o nazwie: "tip1.txt"
+      -W tym pliku umieść pierwszą podpowiedź, którą gracz odblokuję po 3 próbach.
+         (ważne jest to aby nie była ona zbyt oczywista)
+
+   3. Utwórz plik o nazwie: "tip2.txt"
+      -W tym pliku umieść drugą podpowiedź, którą gracz odblokuję po 7 próbach.
+         (ta podpowiedź powinna nakierować gracza, ale nie powinna zdradzić co to za słowo)
+
+   4. Utwórz plik o nazwie: "tip3.txt"
+      -W tym pliku umieść trzecią podpowiedź, którą gracz odblokuję po 15 próbach.
+         (tutaj możesz podpowiedź już jak ci się żywnie podoba)
+
+2. Wyślij te 4 pliki do osoby, która ma dostęp do serwera: np. PROokin,
+
+3. Poczekaj na odpowiedź zwrotną, że pliki są już na serwerze,
+
+4. Gdy dostaniesz zielone światło, powiedz swojemu rywalowi aby rozpoczął grę,
+
+5. Po zakończonej rozgrywce daj znać, że gra się zakończyła, jeżeli tego nie zrobisz pliki zostaną usunięte po 2h.
+             ------------------------------------------------------------------------------------
+            | A więc... Skoro to czytasz, znaczy, że grasz w moją grę. Bardzo Ci za to dziękuję! |
+             ------------------------------------------------------------------------------------
